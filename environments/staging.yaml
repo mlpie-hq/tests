@@ -1,7 +1,7 @@
 apiVersion: mlpie.ai/v1
 kind: Environment
 metadata:
-  name: "dev-environment"
+  name: "staging"
   description: "Primary development environment with multiple data sources."
   labels:
     - "dev"
