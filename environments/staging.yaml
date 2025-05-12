@@ -1,7 +1,7 @@
 piVersion: mlpie.ai/v1
 kind: Environment
 metadata:
-  name: "dev-environment-01"
+  name: "dev-environment"
   description: "Primary development environment with multiple data sources."
   labels:
     - "dev"
